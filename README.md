@@ -59,16 +59,16 @@ Atuo com foco em back-end, principalmente com **Python e Django**, e estou sempr
 
 ### 📊 Estatísticas GitHub
 
-![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraalvesfreitas&show_icons=true&theme=radical)
----
+![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraalvesfreitas&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraalvesfreitas&layout=compact&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=laraalvesfreitas&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraalvesfreitas&layout=compact&theme=radical) 
 
- 💬 "Persistência é minha principal linguagem. E o código é meu caminho."
+
+
 
 
 
