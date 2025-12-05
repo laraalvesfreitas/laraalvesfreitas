@@ -44,11 +44,17 @@ Atuo com foco em desenvolvimento Front-End, construindo interfaces com React, Ja
 
 ### 🌱 Atualmente estudando
 • Elas + Tech – Front-End JavaScript (Em andamento)
+
 •JavaScript (lógica e boas práticas)
+
 •CSS (responsividade e estilização avançada)
+
 •React (componentes, hooks e estados)
+
 •Integração com APIs
+
 •Criação e organização de componentes reutilizáveis
+
 
 ### 🌐 Vamos nos conectar? 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-alves-8477a6191/) 
