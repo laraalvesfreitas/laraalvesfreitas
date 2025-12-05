@@ -64,15 +64,6 @@ Atuo com foco em desenvolvimento Front-End, construindo interfaces com React, Ja
 
 
 
-### 📊 Estatísticas GitHub
-
-![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraalvesfreitas&show_icons=true&theme=radical) 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=laraalvesfreitas&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraalvesfreitas&layout=compact&theme=radical) 
 
 
 
