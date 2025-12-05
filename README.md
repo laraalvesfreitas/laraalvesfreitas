@@ -1,37 +1,36 @@
 # 👩🏻‍💻 Olá! Eu sou a Lara!
 
-**`Desenvolvedora Back-end Python | Django`**
+**`Front-End Developer & QA`**
 
 
 Me chamo **Lara Alves de Freitas**, tenho 21 anos e sou natural de **Belo Horizonte (MG)**. Atualmente, estou no 8° período do curso de **Sistemas de Informações** na PUCMG. 
 Sou apaixonada por tecnologia e desenvolvimento de software. 
 
-Atuo com foco em back-end, principalmente com **Python e Django**, e estou sempre buscando evoluir minhas habilidades em APIs, banco de dados e boas práticas de programação. 
+Atuo com foco em desenvolvimento Front-End, construindo interfaces com React, JavaScript, HTML e CSS. Busco evoluir continuamente em arquitetura Front-End, acessibilidade, testes (QA) e boas práticas para entrega de aplicações modernas e de alta qualidade.
 
-🎯**Objetivo:**  Me tornar uma desenvolvedora backend profissional, contribuindo com soluções que impactem positivamente pessoas e negócios. 
+🎯**Objetivo:**  Me tornar uma desenvolvedora Front-End profissional, criando interfaces modernas e intuitivas que melhorem a experiência das pessoas e contribuam para o crescimento dos negócios. 
 
 
 ### 🧠 Softskils 
 
 
 #### 💻 Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 
 #### ⚙️ Frameworks e Bibliotecas
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 
 
 
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
 #### 🔧 Versionamento & Ferramentas
@@ -45,9 +44,12 @@ Atuo com foco em back-end, principalmente com **Python e Django**, e estou sempr
 
 
 ### 🌱 Atualmente estudando
-- Bootcamp Python - Santander & DIO 
-- Curso Python Django Master 
-- Criação de APIs
+• Elas + Tech – Front-End JavaScript (Em andamento)
+•JavaScript (lógica e boas práticas)
+•CSS (responsividade e estilização avançada)
+•React (componentes, hooks e estados)
+•Integração com APIs
+•Criação e organização de componentes reutilizáveis
 
 ### 🌐 Vamos nos conectar? 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-alves-8477a6191/) 
