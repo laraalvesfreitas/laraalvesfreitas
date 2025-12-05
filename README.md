@@ -43,17 +43,17 @@ Atuo com foco em desenvolvimento Front-End, construindo interfaces com React, Ja
 
 
 ### 🌱 Atualmente estudando
-• Elas + Tech – Front-End JavaScript (Em andamento)
+- Elas + Tech – Front-End JavaScript (Em andamento)
 
-•JavaScript (lógica e boas práticas)
+- JavaScript (lógica e boas práticas)
 
-•CSS (responsividade e estilização avançada)
+- CSS (responsividade e estilização avançada)
 
-•React (componentes, hooks e estados)
+- React (componentes, hooks e estados)
 
-•Integração com APIs
+- Integração com APIs
 
-•Criação e organização de componentes reutilizáveis
+- Criação e organização de componentes reutilizáveis
 
 
 ### 🌐 Vamos nos conectar? 
