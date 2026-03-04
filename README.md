@@ -3,12 +3,11 @@
 **`Front-End Developer`**
 
 
-Me chamo **Lara Alves de Freitas**, tenho 21 anos e sou natural de **Belo Horizonte (MG)**. Atualmente, estou no 8° período do curso de **Sistemas de Informações** na PUCMG. 
-Sou apaixonada por tecnologia e desenvolvimento de software. 
+Bacharela em Sistemas de Informação pela PUC Minas. Sou apaixonada por transformar ideias em interfaces modernas, intuitivas e, acima de tudo, de alta qualidade.
 
-Atuo com foco em desenvolvimento Front-End, construindo interfaces com React, JavaScript, HTML e CSS. Busco evoluir continuamente em arquitetura Front-End, acessibilidade, testes (QA) e boas práticas para entrega de aplicações modernas e de alta qualidade.
+Atuo com foco no ecossistema Front-End, desenvolvendo aplicações robustas com React.js, JavaScript (ES6+) e TypeScript. Meu grande diferencial é a mentalidade de QA (Quality Assurance): por ter experiência anterior com testes e processos de qualidade, entrego códigos mais resilientes e foco total na experiência do usuário final.
 
-🎯**Objetivo:**  Me tornar uma desenvolvedora Front-End profissional, criando interfaces modernas e intuitivas que melhorem a experiência das pessoas e contribuam para o crescimento dos negócios. 
+🎯 Objetivo: Atuar como Desenvolvedora Front-End Júnior, contribuindo para o crescimento de negócios através de tecnologia de ponta e boas práticas de desenvolvimento.
 
 
 ### 🧠 Softskils 
@@ -50,6 +49,8 @@ Atuo com foco em desenvolvimento Front-End, construindo interfaces com React, Ja
 - React (componentes, hooks e estados)
 
 - Integração com APIs
+
+- TypeScript aplicado ao desenvolvimento de componentes
 
 - Criação e organização de componentes reutilizáveis
 
