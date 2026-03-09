@@ -7,7 +7,6 @@ Bacharela em Sistemas de Informação pela PUC Minas. Sou apaixonada por transfo
 
 Atuo com foco no ecossistema Front-End, desenvolvendo aplicações robustas com React.js, JavaScript (ES6+) e TypeScript. Meu grande diferencial é a mentalidade de QA (Quality Assurance): por ter experiência anterior com testes e processos de qualidade, entrego códigos mais resilientes e foco total na experiência do usuário final.
 
-🎯 Objetivo: Atuar como Desenvolvedora Front-End Júnior, contribuindo para o crescimento de negócios através de tecnologia de ponta e boas práticas de desenvolvimento.
 
 
 ### 🧠 Softskils 
