@@ -1,74 +1,44 @@
-# 👩🏻‍💻 Olá! Eu sou a Lara!
+# 👩🏻‍💻 Olá! Eu sou a Lara Alves!
 
-**`Front-End Developer`**
+**`QA Júnior | Test Automation Enthusiast`**
 
+Bacharela em Sistemas de Informação pela PUC Minas. Atualmente, foco minha carreira em **Quality Assurance**, utilizando minha base técnica em desenvolvimento para garantir a entrega de softwares robustos, funcionais e centrados na experiência do usuário.
 
-Bacharela em Sistemas de Informação pela PUC Minas. Sou apaixonada por transformar ideias em interfaces modernas, intuitivas e, acima de tudo, de alta qualidade.
+Acredito que a qualidade não é apenas a última etapa, mas um processo contínuo que deve estar presente desde o refinamento. Utilizo meu conhecimento em lógica de programação e tecnologias Web para realizar testes de API e automação, buscando sempre a eficiência e a prevenção de falhas no ciclo de desenvolvimento.
 
-Atuo com foco no ecossistema Front-End, desenvolvendo aplicações robustas com React.js, JavaScript (ES6+) e TypeScript. Meu grande diferencial é a mentalidade de QA (Quality Assurance): por ter experiência anterior com testes e processos de qualidade, entrego códigos mais resilientes e foco total na experiência do usuário final.
+---
 
+### 🧪 Especialidades em QA & Tech
 
-
-### 🧠 Softskils 
-
-
-#### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-
-#### ⚙️ Frameworks e Bibliotecas
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-
-
+#### 🛠️ Testes e Qualidade
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### 🔧 Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### 🔧 Versionamento & Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+---
 
+### 🌱 Foco Atual de Estudos
+- **Automação de Testes:** Aprofundando em Cypress para testes E2E e de integração.
+- **Testes de API:** Validações de endpoints e fluxos de dados (Postman/Insomnia).
+- **Cultura Ágil:** Atuação do QA em cerimônias Scrum e escrita de BDD (Gherkin).
+- **Background Técnico:** Utilizo meus estudos em **React e TypeScript** como suporte para entender a arquitetura do front-end e realizar testes de caixa-cinza mais precisos.
 
-#### 🖥️ IDEs e Editores
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
+---
 
-
-### 🌱 Atualmente estudando
-- Elas + Tech – Front-End JavaScript (Em andamento)
-
-- JavaScript (lógica e boas práticas)
-
-- CSS (responsividade e estilização avançada)
-
-- React (componentes, hooks e estados)
-
-- Integração com APIs
-
-- TypeScript aplicado ao desenvolvimento de componentes
-
-- Criação e organização de componentes reutilizáveis
-
-
-### 🌐 Vamos nos conectar? 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-alves-8477a6191/) 
+### 🌐 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-alves-8477a6191/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laraalvesfreitas)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laraalves624@gmail.com)
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
+> **Diferencial:** Por ter estudado profundamente o ecossistema Front-End, possuo facilidade em ler códigos, depurar erros no console do navegador e colaborar tecnicamente com o time de desenvolvimento para acelerar a correção de bugs.
