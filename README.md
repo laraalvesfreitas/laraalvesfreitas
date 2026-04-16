@@ -1,10 +1,12 @@
 # 👩🏻‍💻 Olá! Eu sou a Lara Alves!
 
-**`QA Júnior | Test Automation Enthusiast`**
+**`Desenvolvedora Front-End (React) | QA com foco em testes automatizados`**
 
-Bacharela em Sistemas de Informação pela PUC Minas. Atualmente, foco minha carreira em **Quality Assurance**, utilizando minha base técnica em desenvolvimento para garantir a entrega de softwares robustos, funcionais e centrados na experiência do usuário.
+Bacharela em Sistemas de Informação pela PUC Minas, com atuação em desenvolvimento Front-End e Qualidade de Software. Crio interfaces modernas e responsivas utilizando HTML, CSS, JavaScript e React, sempre com foco na experiência do usuário e na qualidade das aplicações.
 
-Acredito que a qualidade não é apenas a última etapa, mas um processo contínuo que deve estar presente desde o refinamento. Utilizo meu conhecimento em lógica de programação e tecnologias Web para realizar testes de API e automação, buscando sempre a eficiência e a prevenção de falhas no ciclo de desenvolvimento.
+Possuo experiência com testes manuais e testes de API, além de estar em evolução em automação com Cypress. Utilizo minha base em desenvolvimento para criar testes mais eficientes e garantir aplicações mais estáveis desde as primeiras etapas do desenvolvimento.
+
+Acredito que qualidade e desenvolvimento caminham juntos. Por isso, busco unir minhas habilidades técnicas para construir interfaces funcionais, bem estruturadas e com alta confiabilidade.
 
 ---
 
@@ -13,11 +15,6 @@ Acredito que a qualidade não é apenas a última etapa, mas um processo contín
 
 ### 🧪 Especialidades em QA & Tech
 
-#### 🛠️ Testes e Qualidade
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 #### 💻 Desenvolvimento Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,23 +22,28 @@ Acredito que a qualidade não é apenas a última etapa, mas um processo contín
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-#### 🗄️ Banco de Dados
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
 #### 🔧 Ferramentas & Versionamento
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+#### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+#### 🛠️ Testes e Qualidade
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
 ### 🌱 Foco Atual de Estudos
-- **Automação de Testes:** Aprofundando em Cypress para testes E2E e de integração.
-- **Testes de API:** Validações de endpoints e fluxos de dados (Postman/Insomnia).
-- **Cultura Ágil:** Atuação do QA em cerimônias Scrum e escrita de BDD (Gherkin).
-- **Arquitetura Front-end:** Estudo de React e TypeScript com foco em consumo de APIs.
+- **Desenvolvimento Front-End:** Aprofundando em React e TypeScript, com foco em componentização, consumo de APIs e boas práticas de código.*
+- **Automação de Testes:** Evoluindo em testes E2E e de integração com Cypress.
+- **Testes de API:** Validação de endpoints e fluxos de dados utilizando Postman e Insomnia.
+- **Qualidade de Software:** Aplicação de testes desde as etapas iniciais, com uso de BDD (Gherkin) e atuação em ambientes ágeis (Scrum).
 
 ---
 
@@ -52,4 +54,4 @@ Acredito que a qualidade não é apenas a última etapa, mas um processo contín
 
 ---
 
-> **Diferencial:** Por ter estudado profundamente o ecossistema Front-End, possuo facilidade em ler códigos, depurar erros no console do navegador e colaborar tecnicamente com o time de desenvolvimento para acelerar a correção de bugs.
+> **Diferencial:** Combino conhecimento em desenvolvimento Front-End com práticas de Qualidade de Software, o que me permite ler e entender o código, depurar erros no navegador e identificar falhas com mais precisão. Essa visão integrada facilita a colaboração com o time de desenvolvimento e contribui para a entrega de aplicações mais robustas e com melhor experiência do usuário.
