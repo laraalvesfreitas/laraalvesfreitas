@@ -2,13 +2,15 @@
 
 **`Analista de Qualidade de Software (QA) `**
 
-## Sobre mim
+## 📝 Sobre mim
 Bacharel em Sistemas de Informação pela PUC Minas, com atuação focada em Qualidade de Software (QA).
 
 Possuo experiência sólida em testes manuais e de API, além de estar em constante evolução na automação de testes com Cypress. Utilizo minha base em desenvolvimento para criar testes mais eficientes, garantindo aplicações estáveis desde as etapas iniciais do ciclo de vida do software.
 
 Acredito que qualidade e desenvolvimento devem caminhar juntos. Por isso, busco unir minhas habilidades técnicas para validar interfaces funcionais, bem estruturadas e de alta confiabilidade.
----
+
+
+
 
 
 ## 🧪 Especialidades em QA & Tech
@@ -35,14 +37,16 @@ Acredito que qualidade e desenvolvimento devem caminhar juntos. Por isso, busco 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
----
+
+
 
 ## 🌱 Foco Atual de Estudos
 - **Automação de Testes:** Evoluindo em testes E2E e de integração com Cypress.
 - **Testes de API:** Validação de endpoints e fluxos de dados utilizando Postman e Insomnia.
 - **Qualidade de Software:** Aplicação de testes desde as etapas iniciais, com uso de BDD (Gherkin) e atuação em ambientes ágeis (Scrum).
 
----
+
+
 
 ## 🌐 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraalvesfreitas)
