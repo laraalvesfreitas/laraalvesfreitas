@@ -1,19 +1,14 @@
 # 👩🏻‍💻 Olá! Eu sou a Lara Alves!
 
-**`QA Analyst `**/ **`QA Automation  `**
-
+**`QA Analyst | QA Automation`**
  
 
-## 📝 Sobre mim
-Bacharel em Sistemas de Informação pela PUC Minas, com atuação focada em Qualidade de Software (QA).
+## Sobre mim
 
-Possuo experiência sólida em testes manuais e de API, além de estar em constante evolução na automação de testes com Cypress. Utilizo minha base em desenvolvimento para criar testes mais eficientes, garantindo aplicações estáveis desde as etapas iniciais do ciclo de vida do software.
-
-Acredito que qualidade e desenvolvimento devem caminhar juntos. Por isso, busco unir minhas habilidades técnicas para validar interfaces funcionais, bem estruturadas e de alta confiabilidade.
+Bacharel em Sistemas de Informação pela PUC Minas e Analista de QA Júnior com foco em Qualidade de Software e QA Automation. Tenho experiência em testes automatizados e manuais para aplicações Web e Mobile, com ênfase em automação E2E utilizando Cypress e JavaScript, além de testes de API, SQL e testes exploratórios.
 
 
-
-## 🧪 Especialidades em QA & Tech
+## Especialidades em QA & Tech
 
 #### 🛠️ Testes e Qualidade
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
@@ -37,7 +32,14 @@ Acredito que qualidade e desenvolvimento devem caminhar juntos. Por isso, busco 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-## 🚀 Projetos em Destaque
+## Linguagens Mais Utilizadas
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laraalvesfreitas&theme=tokyonight" />
+</p>
+
+
+## Projetos em Destaque
 
 ### 🔹 Swag Labs - Testes End-to-End
 Projeto de automação de testes End-to-End (E2E) desenvolvido com Cypress utilizando a aplicação Swag Labs como sistema sob teste.
@@ -96,25 +98,27 @@ Projeto de testes exploratórios e funcionais realizado na aplicação Swag Labs
 
 > 🔗 [Acessar projeto](https://github.com/laraalvesfreitas/teste-exploratorio-e-casos-de-teste-swag-labs)
 
-## 📊 Estatísticas GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=laraalvesfreitas&theme=tokyonight)](https://git.io/streak-stats)
+## Foco Atual de Estudos
 
-
-## 🏆 Conquistas
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=laraalvesfreitas&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+- **Automação de Testes:** Aprimorando conhecimentos em testes End-to-End (E2E) e de integração utilizando Cypress.
+- **Python para QA:** Desenvolvendo habilidades em Python aplicadas à automação de testes e criação de scripts.
+- **Boas Práticas de QA:** Estudando estratégias de testes, integração contínua (CI) e aprimoramento da qualidade de software.
 
 
+## Estatísticas GitHub
 
-## 🌱 Foco Atual de Estudos
-- **Automação de Testes:** Evoluindo em testes E2E e de integração com Cypress.
-- **Python:** Aprofundando conhecimento em python para automação e testes. 
+<p align="center">
+  <img width="400" src="https://streak-stats.demolab.com?user=laraalvesfreitas&theme=tokyonight" />
+</p>
 
 
+## Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/laraalvesfreitas/laraalvesfreitas/output/github-contribution-grid-snake-dark.svg)
 
 
-## 🌐 Vamos nos conectar?
+## Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraalvesfreitas)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laraalvesfreitas)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laraalves624@gmail.com)
