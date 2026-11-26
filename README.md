@@ -1,21 +1,25 @@
 # 👩🏻‍💻 Olá! Eu sou a Lara Alves!
 
-**`QA Analyst | QA Automation`**
- 
+**`Analista de Integrações & Automação Júnior | APIs REST | SQL | QA`**
+
 
 ## Sobre mim
 
-Bacharel em Sistemas de Informação pela PUC Minas e Analista de QA Júnior com foco em Qualidade de Software e QA Automation. Tenho experiência em testes automatizados e manuais para aplicações Web e Mobile, com ênfase em automação E2E utilizando Cypress e JavaScript, além de testes de API, SQL e testes exploratórios.
+Bacharel em Sistemas de Informação pela PUC Minas, com experiência em integrações de e-commerce (conexão de lojas com ERPs e correção de dados exportados) e em testes de software. Tenho conhecimento em testes de APIs REST com Postman, SQL, automação E2E com Cypress e JavaScript, e estou evoluindo em Python para consumo de APIs e automação.
+
+📍 Belo Horizonte - MG | Aberta a oportunidades híbridas ou remotas.
 
 
-## Especialidades em QA & Tech
+## Especialidades
+
+#### 🔌 APIs e Integrações
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🛠️ Testes e Qualidade
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Gherkin](https://img.shields.io/badge/Gherkin-4ABC5B?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 #### 🗄️ Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -26,33 +30,20 @@ Bacharel em Sistemas de Informação pela PUC Minas e Analista de QA Júnior com
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### 💻 Desenvolvimento Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-## Linguagens Mais Utilizadas
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laraalvesfreitas&theme=tokyonight" />
-</p>
-
 
 ## Projetos em Destaque
 
-### 🔹 Swag Labs - Testes End-to-End
-Projeto de automação de testes End-to-End (E2E) desenvolvido com Cypress utilizando a aplicação Swag Labs como sistema sob teste.
+### 🔹 Consulta de CEP via API - ViaCEP
+Aplicação de linha de comando em Python que consome a API REST do ViaCEP e retorna o endereço a partir do CEP.
 
-- Automação dos fluxos de Login, Produtos, Carrinho e Checkout;
-- Validação da ordenação de produtos;
-- Testes de Logout e navegação pelo menu;
-- Integração contínua (CI) com GitHub Actions;
-- Aplicação de boas práticas de automação de testes.
+- Consumo de API REST com a biblioteca `requests`;
+- Validação do CEP antes da requisição;
+- Exibição de logradouro, bairro, cidade, estado e região;
+- Fluxo de consultas sucessivas no terminal.
 
-**Tecnologias:** Cypress, JavaScript, Node.js, GitHub Actions, Git e GitHub.
+**Tecnologias:** Python, requests, API REST.
 
-> 🔗 [Acessar projeto](https://github.com/laraalvesfreitas/cypress-saucedemo-tests)
+> 🔗 [Acessar projeto](https://github.com/laraalvesfreitas/consulta-api-viacep)
 
 ---
 
@@ -68,6 +59,21 @@ Projeto de testes funcionais de API REST utilizando a Swagger Petstore, com foco
 **Tecnologias:** Postman, Swagger Petstore e API Testing.
 
 > 🔗 [Acessar projeto](https://github.com/laraalvesfreitas/qa-api-tests-swagger-petstore)
+
+---
+
+### 🔹 Swag Labs - Testes End-to-End
+Projeto de automação de testes End-to-End (E2E) desenvolvido com Cypress utilizando a aplicação Swag Labs como sistema sob teste.
+
+- Automação dos fluxos de Login, Produtos, Carrinho e Checkout;
+- Validação da ordenação de produtos;
+- Testes de Logout e navegação pelo menu;
+- Integração contínua (CI) com GitHub Actions;
+- Aplicação de boas práticas de automação de testes.
+
+**Tecnologias:** Cypress, JavaScript, Node.js, GitHub Actions, Git e GitHub.
+
+> 🔗 [Acessar projeto](https://github.com/laraalvesfreitas/cypress-saucedemo-tests)
 
 ---
 
@@ -101,9 +107,9 @@ Projeto de testes exploratórios e funcionais realizado na aplicação Swag Labs
 
 ## Foco Atual de Estudos
 
-- **Automação de Testes:** Aprimorando conhecimentos em testes End-to-End (E2E) e de integração utilizando Cypress.
-- **Python para QA:** Desenvolvendo habilidades em Python aplicadas à automação de testes e criação de scripts.
-- **Boas Práticas de QA:** Estudando estratégias de testes, integração contínua (CI) e aprimoramento da qualidade de software.
+- **Python para integrações e automação:** consumo de APIs REST com `requests` e criação de scripts para automatizar rotinas e testes.
+- **Automação de Testes:** aprimorando testes End-to-End (E2E) com Cypress e integração contínua (CI).
+- **SQL:** consultas e análise de dados.
 
 
 ## Estatísticas GitHub
@@ -111,11 +117,6 @@ Projeto de testes exploratórios e funcionais realizado na aplicação Swag Labs
 <p align="center">
   <img width="400" src="https://streak-stats.demolab.com?user=laraalvesfreitas&theme=tokyonight" />
 </p>
-
-
-## Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/laraalvesfreitas/laraalvesfreitas/output/github-contribution-grid-snake-dark.svg)
 
 
 ## Vamos nos conectar?
